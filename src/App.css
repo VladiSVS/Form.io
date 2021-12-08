@@ -1,0 +1,13 @@
+.center {
+  width: 30%;
+  margin: 10em auto;
+}
+
+.margin-bottom {
+  margin-bottom: 1em;
+}
+
+.fa-calendar {
+  padding: 0.375rem 0.5rem;
+  border-radius: none;
+}
